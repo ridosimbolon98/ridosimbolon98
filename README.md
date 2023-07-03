@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ridosimbolon98
-- 👀 I’m interested in web programming Laravel, Codeigniter and 
+- 👀 I’m interested in web programming Node JS, React JS, Laravel, Codeigniter and 
 - 🌱 I’m currently learning React JS adn API
 - 📫 How to reach me just contact me on email ridosimbolon98@gmail.com
 
